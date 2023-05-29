@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+MERGED from [androidx.room:room-ktx:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\c05f585c6fb3c7c7555c1618709e6ba5\transformed\jetified-room-ktx-2.2.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\3492cb96a817e55eeb8bcc65222d28dc\transformed\jetified-activity-ktx-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\8c18afe3893743f177f07580e3570236\transformed\jetified-lifecycle-viewmodel-ktx-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\602c38174a3721f3c5220d19787d493a\transformed\jetified-lifecycle-runtime-ktx-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\421191de063c8f01f0811fa81aa204d2\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0-alpha06] C:\Users\gauri\.gradle\caches\transforms-3\acb8374fa8a7591b2b81882afcd504af\transformed\jetified-datastore-preferences-1.0.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0-alpha06] C:\Users\gauri\.gradle\caches\transforms-3\165dc2551b3313d5d89065ccad89eba1\transformed\jetified-datastore-1.0.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\gauri\.gradle\caches\transforms-3\19632aaedf7ad36ff26d270a5c3dd53a\transformed\jetified-viewbinding-4.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\gauri\.gradle\caches\transforms-3\4da9ba0e5a1479790e6323311dc8b15a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\dc8cfbb93a3d64cab5661bdf18c17a60\transformed\jetified-savedstate-ktx-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\f93961d0b08bba957509f2073cc493bf\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gauri\.gradle\caches\transforms-3\d6f3c811b086620b7556f92dd67f12cf\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gauri\.gradle\caches\transforms-3\18aa643730aba0a333582b8364732e74\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\0b6cd2a547351082434ac8487996e319\transformed\appcompat-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\1acfc9e3954a75cb6738c9c9cd389a28\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\gauri\.gradle\caches\transforms-3\229d6a4ed575c651cf2c392a50ed5352\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\ce51ba2de5ffab2b010352ab8a899acb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\e5cc800a53951b79de52129b2d236f6c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\gauri\.gradle\caches\transforms-3\3896de666f9a127066af9875f5482403\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\f2d677d048aa12b48663ea3be0a38be5\transformed\jetified-appcompat-resources-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\58c71dfcfbeaf595b0dbdfec48d80857\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\6a41d4228f8fe7d4b2b2d54215e5836a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\dd14088fc393ce8186eece8cf630ae74\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\gauri\.gradle\caches\transforms-3\7127bd85d1f8aa240d0a71ba2b6ea17d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\gauri\.gradle\caches\transforms-3\070c356562312c5517d60aeeb50d82a2\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\64be16d9289b4061e047ad5122364c3e\transformed\fragment-1.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\17fcda53b991e8a32cc474a1f0946a1e\transformed\jetified-activity-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\a3f6affae7f517cf7075fc95c344ce99\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\af08dbf0a8f20e9a60a72d1fc85b14b7\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\5f74133500d8abe879422eb63fb5d574\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\6e3ad7596417dc1100b54dc498c0c372\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\92d5234b23b13e5d3f1410f8ac51bbee\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\72b81a4fc9054888f680ade24736574c\transformed\core-1.5.0-beta01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\411e160d89a00590db0ebb71efba4672\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\9d51f60452eeea53c6625e0d0f6bc0d6\transformed\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\0d4dcf4a85ca2fa6fad73b55cc096e93\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\0f059ee8c3cc58fb50474c776fc8022a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\8aeb911783ee329dc5b94845f5becd1f\transformed\jetified-savedstate-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\5f40571df9661a7f49e550bf8cc8b2fd\transformed\lifecycle-viewmodel-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\gauri\.gradle\caches\transforms-3\eb619eca9141f157812cf215cd2593dd\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\gauri\.gradle\caches\transforms-3\f2b8948f5c9c41eef32e3f1f5e25c07a\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\570ef15e55a826dff7199e37beb1cb33\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\748e4d4b4a0ec3abee7757fdde1faa16\transformed\lifecycle-livedata-core-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\gauri\.gradle\caches\transforms-3\2115a2ca55cbd695fa28e7e934753510\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\f714804da8add49d30c8ed82a1298b13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\87a155c0ce68b28a24ab9efe42c2b8e3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\9cd8e942c44d65de1b0b6f77b6c0fa79\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\b6a6b1b65046b2000f3faf98ac36c6b7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+	package
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:18:5-47
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:1-68:12
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:28:22-78
+application
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:30:5-67:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gauri\.gradle\caches\transforms-3\d6f3c811b086620b7556f92dd67f12cf\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gauri\.gradle\caches\transforms-3\d6f3c811b086620b7556f92dd67f12cf\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gauri\.gradle\caches\transforms-3\18aa643730aba0a333582b8364732e74\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gauri\.gradle\caches\transforms-3\18aa643730aba0a333582b8364732e74\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\1acfc9e3954a75cb6738c9c9cd389a28\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\1acfc9e3954a75cb6738c9c9cd389a28\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\gauri\.gradle\caches\transforms-3\229d6a4ed575c651cf2c392a50ed5352\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\gauri\.gradle\caches\transforms-3\229d6a4ed575c651cf2c392a50ed5352\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\gauri\.gradle\caches\transforms-3\7127bd85d1f8aa240d0a71ba2b6ea17d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\gauri\.gradle\caches\transforms-3\7127bd85d1f8aa240d0a71ba2b6ea17d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\gauri\.gradle\caches\transforms-3\070c356562312c5517d60aeeb50d82a2\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\gauri\.gradle\caches\transforms-3\070c356562312c5517d60aeeb50d82a2\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\72b81a4fc9054888f680ade24736574c\transformed\core-1.5.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\72b81a4fc9054888f680ade24736574c\transformed\core-1.5.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\f714804da8add49d30c8ed82a1298b13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\f714804da8add49d30c8ed82a1298b13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\72b81a4fc9054888f680ade24736574c\transformed\core-1.5.0-beta01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:34:9-41
+	android:roundIcon
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:35:9-54
+	android:icon
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:37:9-55
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:31:9-72
+activity#com.android.example.sleepcodelab.MainActivity
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:39:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:43:27-74
+receiver#com.android.example.sleepcodelab.receiver.SleepReceiver
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:47:9-50:39
+	android:enabled
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:48:13-83
+receiver#com.android.example.sleepcodelab.receiver.BootReceiver
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:52:9-66:20
+	android:enabled
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:55:13-36
+	android:permission
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:56:13-75
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:53:13-82
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:57:13-65:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:58:17-75
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:58:27-73
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:59:17-78
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:59:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:60:17-81
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:60:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:62:17-81
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:62:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:63:17-84
+	android:name
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml:63:25-81
+uses-sdk
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\c05f585c6fb3c7c7555c1618709e6ba5\transformed\jetified-room-ktx-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\c05f585c6fb3c7c7555c1618709e6ba5\transformed\jetified-room-ktx-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\3492cb96a817e55eeb8bcc65222d28dc\transformed\jetified-activity-ktx-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\3492cb96a817e55eeb8bcc65222d28dc\transformed\jetified-activity-ktx-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\8c18afe3893743f177f07580e3570236\transformed\jetified-lifecycle-viewmodel-ktx-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\8c18afe3893743f177f07580e3570236\transformed\jetified-lifecycle-viewmodel-ktx-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\602c38174a3721f3c5220d19787d493a\transformed\jetified-lifecycle-runtime-ktx-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\602c38174a3721f3c5220d19787d493a\transformed\jetified-lifecycle-runtime-ktx-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\421191de063c8f01f0811fa81aa204d2\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\421191de063c8f01f0811fa81aa204d2\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0-alpha06] C:\Users\gauri\.gradle\caches\transforms-3\acb8374fa8a7591b2b81882afcd504af\transformed\jetified-datastore-preferences-1.0.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0-alpha06] C:\Users\gauri\.gradle\caches\transforms-3\acb8374fa8a7591b2b81882afcd504af\transformed\jetified-datastore-preferences-1.0.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0-alpha06] C:\Users\gauri\.gradle\caches\transforms-3\165dc2551b3313d5d89065ccad89eba1\transformed\jetified-datastore-1.0.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0-alpha06] C:\Users\gauri\.gradle\caches\transforms-3\165dc2551b3313d5d89065ccad89eba1\transformed\jetified-datastore-1.0.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\gauri\.gradle\caches\transforms-3\19632aaedf7ad36ff26d270a5c3dd53a\transformed\jetified-viewbinding-4.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\gauri\.gradle\caches\transforms-3\19632aaedf7ad36ff26d270a5c3dd53a\transformed\jetified-viewbinding-4.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\gauri\.gradle\caches\transforms-3\4da9ba0e5a1479790e6323311dc8b15a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\gauri\.gradle\caches\transforms-3\4da9ba0e5a1479790e6323311dc8b15a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\dc8cfbb93a3d64cab5661bdf18c17a60\transformed\jetified-savedstate-ktx-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\dc8cfbb93a3d64cab5661bdf18c17a60\transformed\jetified-savedstate-ktx-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\f93961d0b08bba957509f2073cc493bf\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\f93961d0b08bba957509f2073cc493bf\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gauri\.gradle\caches\transforms-3\d6f3c811b086620b7556f92dd67f12cf\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gauri\.gradle\caches\transforms-3\d6f3c811b086620b7556f92dd67f12cf\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gauri\.gradle\caches\transforms-3\18aa643730aba0a333582b8364732e74\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gauri\.gradle\caches\transforms-3\18aa643730aba0a333582b8364732e74\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\0b6cd2a547351082434ac8487996e319\transformed\appcompat-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\0b6cd2a547351082434ac8487996e319\transformed\appcompat-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\1acfc9e3954a75cb6738c9c9cd389a28\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\1acfc9e3954a75cb6738c9c9cd389a28\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\gauri\.gradle\caches\transforms-3\229d6a4ed575c651cf2c392a50ed5352\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\gauri\.gradle\caches\transforms-3\229d6a4ed575c651cf2c392a50ed5352\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\ce51ba2de5ffab2b010352ab8a899acb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\ce51ba2de5ffab2b010352ab8a899acb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\e5cc800a53951b79de52129b2d236f6c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\e5cc800a53951b79de52129b2d236f6c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\gauri\.gradle\caches\transforms-3\3896de666f9a127066af9875f5482403\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\gauri\.gradle\caches\transforms-3\3896de666f9a127066af9875f5482403\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\f2d677d048aa12b48663ea3be0a38be5\transformed\jetified-appcompat-resources-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\f2d677d048aa12b48663ea3be0a38be5\transformed\jetified-appcompat-resources-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\58c71dfcfbeaf595b0dbdfec48d80857\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\58c71dfcfbeaf595b0dbdfec48d80857\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\6a41d4228f8fe7d4b2b2d54215e5836a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\6a41d4228f8fe7d4b2b2d54215e5836a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\dd14088fc393ce8186eece8cf630ae74\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\dd14088fc393ce8186eece8cf630ae74\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\gauri\.gradle\caches\transforms-3\7127bd85d1f8aa240d0a71ba2b6ea17d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\gauri\.gradle\caches\transforms-3\7127bd85d1f8aa240d0a71ba2b6ea17d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\gauri\.gradle\caches\transforms-3\070c356562312c5517d60aeeb50d82a2\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\gauri\.gradle\caches\transforms-3\070c356562312c5517d60aeeb50d82a2\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\64be16d9289b4061e047ad5122364c3e\transformed\fragment-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\64be16d9289b4061e047ad5122364c3e\transformed\fragment-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\17fcda53b991e8a32cc474a1f0946a1e\transformed\jetified-activity-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\17fcda53b991e8a32cc474a1f0946a1e\transformed\jetified-activity-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\a3f6affae7f517cf7075fc95c344ce99\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\a3f6affae7f517cf7075fc95c344ce99\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\af08dbf0a8f20e9a60a72d1fc85b14b7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\af08dbf0a8f20e9a60a72d1fc85b14b7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\5f74133500d8abe879422eb63fb5d574\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\5f74133500d8abe879422eb63fb5d574\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\6e3ad7596417dc1100b54dc498c0c372\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\6e3ad7596417dc1100b54dc498c0c372\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\92d5234b23b13e5d3f1410f8ac51bbee\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\92d5234b23b13e5d3f1410f8ac51bbee\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\72b81a4fc9054888f680ade24736574c\transformed\core-1.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\gauri\.gradle\caches\transforms-3\72b81a4fc9054888f680ade24736574c\transformed\core-1.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\411e160d89a00590db0ebb71efba4672\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\411e160d89a00590db0ebb71efba4672\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\9d51f60452eeea53c6625e0d0f6bc0d6\transformed\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\9d51f60452eeea53c6625e0d0f6bc0d6\transformed\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\0d4dcf4a85ca2fa6fad73b55cc096e93\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\0d4dcf4a85ca2fa6fad73b55cc096e93\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\0f059ee8c3cc58fb50474c776fc8022a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\0f059ee8c3cc58fb50474c776fc8022a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\8aeb911783ee329dc5b94845f5becd1f\transformed\jetified-savedstate-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\8aeb911783ee329dc5b94845f5becd1f\transformed\jetified-savedstate-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\5f40571df9661a7f49e550bf8cc8b2fd\transformed\lifecycle-viewmodel-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\5f40571df9661a7f49e550bf8cc8b2fd\transformed\lifecycle-viewmodel-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\gauri\.gradle\caches\transforms-3\eb619eca9141f157812cf215cd2593dd\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\gauri\.gradle\caches\transforms-3\eb619eca9141f157812cf215cd2593dd\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\gauri\.gradle\caches\transforms-3\f2b8948f5c9c41eef32e3f1f5e25c07a\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\gauri\.gradle\caches\transforms-3\f2b8948f5c9c41eef32e3f1f5e25c07a\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\570ef15e55a826dff7199e37beb1cb33\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\570ef15e55a826dff7199e37beb1cb33\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\748e4d4b4a0ec3abee7757fdde1faa16\transformed\lifecycle-livedata-core-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-rc01] C:\Users\gauri\.gradle\caches\transforms-3\748e4d4b4a0ec3abee7757fdde1faa16\transformed\lifecycle-livedata-core-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\gauri\.gradle\caches\transforms-3\2115a2ca55cbd695fa28e7e934753510\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\gauri\.gradle\caches\transforms-3\2115a2ca55cbd695fa28e7e934753510\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\f714804da8add49d30c8ed82a1298b13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gauri\.gradle\caches\transforms-3\f714804da8add49d30c8ed82a1298b13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\87a155c0ce68b28a24ab9efe42c2b8e3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\87a155c0ce68b28a24ab9efe42c2b8e3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\9cd8e942c44d65de1b0b6f77b6c0fa79\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\9cd8e942c44d65de1b0b6f77b6c0fa79\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\b6a6b1b65046b2000f3faf98ac36c6b7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\gauri\.gradle\caches\transforms-3\b6a6b1b65046b2000f3faf98ac36c6b7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gauri\AndroidStudioProjects\sleep tracking\android-sleep\complete\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.6] C:\Users\gauri\.gradle\caches\transforms-3\4aef27f4ea9fe8916084b93ed5bac276\transformed\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\bc6f360f201c3ad5ce2f7b7cc2760fca\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\gauri\.gradle\caches\transforms-3\851b2d0ae08b5f766496dd578aeaea7d\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\gauri\.gradle\caches\transforms-3\7a1f67f859ce291dda8ff625c1063329\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
